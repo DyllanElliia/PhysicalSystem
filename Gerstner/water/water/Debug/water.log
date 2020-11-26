@@ -1,0 +1,22 @@
+﻿  main.cpp
+D:\课件\计算机动画\实验\实验四\water\water\water.h(7,23): warning C4305: “初始化”: 从“double”到“float”截断
+D:\课件\计算机动画\实验\实验四\water\water\water.h(8,23): warning C4305: “初始化”: 从“double”到“float”截断
+D:\课件\计算机动画\实验\实验四\water\water\water.h(9,19): warning C4305: “初始化”: 从“double”到“float”截断
+D:\课件\计算机动画\实验\实验四\water\water\water.h(24,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\课件\计算机动画\实验\实验四\water\water\water.h(36,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\课件\计算机动画\实验\实验四\water\water\water.h(44,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\课件\计算机动画\实验\实验四\water\water\main.cpp(27,45): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\课件\计算机动画\实验\实验四\water\water\main.cpp(27,16): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+D:\课件\计算机动画\实验\实验四\water\water\main.cpp(28,37): warning C4305: “初始化”: 从“double”到“float”截断
+D:\课件\计算机动画\实验\实验四\water\water\main.cpp(99,24): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\课件\计算机动画\实验\实验四\water\water\main.cpp(139,42): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\课件\计算机动画\实验\实验四\water\water\main.cpp(140,42): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\课件\计算机动画\实验\实验四\water\water\main.cpp(165,14): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\课件\计算机动画\实验\实验四\water\water\main.cpp(222,31): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\课件\计算机动画\实验\实验四\water\water\main.cpp(223,31): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\课件\计算机动画\实验\实验四\water\water\main.cpp(267): warning C4715: “LoadGLTextures”: 不是所有的控件路径都返回值
+soil.lib(image_DXT.obj) : warning LNK4099: 未找到 PDB“SOIL.pdb”(使用“soil.lib(image_DXT.obj)”或在“D:\课件\计算机动画\实验\实验四\water\Debug\SOIL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+soil.lib(image_helper.obj) : warning LNK4099: 未找到 PDB“SOIL.pdb”(使用“soil.lib(image_helper.obj)”或在“D:\课件\计算机动画\实验\实验四\water\Debug\SOIL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+soil.lib(SOIL.obj) : warning LNK4099: 未找到 PDB“SOIL.pdb”(使用“soil.lib(SOIL.obj)”或在“D:\课件\计算机动画\实验\实验四\water\Debug\SOIL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+soil.lib(stb_image_aug.obj) : warning LNK4099: 未找到 PDB“SOIL.pdb”(使用“soil.lib(stb_image_aug.obj)”或在“D:\课件\计算机动画\实验\实验四\water\Debug\SOIL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  water.vcxproj -> D:\课件\计算机动画\实验\实验四\water\Debug\water.exe
